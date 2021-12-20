@@ -2,73 +2,30 @@
 
 | Artwork Name | Original URL | Short URL |
 |--------------|--------------|-----------|
-| Reflection of the CN Tower |  |  |
-| CN Tower |  |  |
-| Downtown Toronto #10 |  |  |
-| Downtown Toronto #9 |  |  |
-| Downtown Toronto #8 |  |  |
-| Downtown Toronto #7 |  |  |
-| Downtown Toronto #6 |  |  |
-| The Crystal |  |  |
-| Royal Ontario Museum |  |  |
-| Downtown Toronto #5 |  |  |
-| Downtown Toronto #4 |  |  |
-| Downtown Toronto #3 |  |  |
-| Downtown Toronto #2 |  |  |
-| High-rise #2 |  |  |
-| Airplane |  |  |
-| St. Lawrence Market #2 |  |  |
-| Downtown Toronto |  |  |
-| Distillery District Love Locks |  |  |
-| St. Lawrence Market |  |  |
-| Gooderham Building |  |  |
-| Toronto Buses |  |  |
-| Toronto Office Building |  |  |
-| Toronto Office Building B&W |  |  |
-| CN Tower |  |  |
-| CN Tower B&W |  |  |
-| High-rise |  |  |
-| Downtown Toronto at Night |  |  |
-| Toronto Sign at Night |  |  |
-| Yonge-Dundas Square at Night |  |  |
-| Scarborough Bluffs |  |  |
-| Luxembourg Palace |  |  |
-| Paris Canal 2 |  |  |
-| Paris Canal |  |  |
-| American Falls and Bridal Veil Falls |  |  |
-| Montreal Botanical Garden 4 |  |  |
-| Montreal Botanical Garden 3 |  |  |
-| Montreal Botanical Garden 2 |  |  |
-| Montreal Botanical Garden |  |  |
-| Notre-Dame Basilica of Montreal Pipe Organ |  |  |
-| Horse-Drawn Carriage Tour in Montreal |  |  |
-| Cathédrale Marie-Reine-du-Monde et St-Jacques-le-Majeur |  |  |
-| Snow Covered Montreal |  |  |
-| Scenic Caves Suspension Bridge |  |  |
-| Madeira Beach Boats |  |  |
-| Madeira Beach Sunset |  |  |
-| Lonely Tent on Madeira Beach |  |  |
-| Running in Central Park |  |  |
-| Times Square 3 |  |  |
-| Times Square 2 |  |  |
-| Times Square |  |  |
-| Empire State Building 3 |  |  |
-| New York City 8 |  |  |
-| New York City 7 |  |  |
-| New York City 6 |  |  |
-| New York City 5 |  |  |
-| New York City 4 |  |  |
-| New York City 3 |  |  |
-| New York City 2 |  |  |
-| New York City |  |  |
-| Looking Down on NYC |  |  |
-| The Theater at Madison Square Garden |  |  |
-| Empire State Building 2 |  |  |
-| Empire State Building |  |  |
-| Springbank Park Thames River |  |  |
-| Springbank Park Thames River |  |  |
-| Horseshoe Falls |  |  |
-| Horseshoe Falls in Niagara Falls |  |  |
-| American Falls and Bridal Veil Falls |  |  |
-| Horseshoe Falls |  |  |
-| Madeira Beach |  |  |
+| Reflection of the CN Tower | https://society6.com/product/reflections-of-the-cn-tower6357389_poster?sku=s6-22684495p66a213v756&curator=lifeat6ix |  |
+| CN Tower | https://society6.com/product/cn-tower6357381_poster?sku=s6-22684484p66a213v756&curator=lifeat6ix |  |
+| Downtown Toronto #10 | https://society6.com/product/downtown-toronto-10_poster?sku=s6-22684389p66a213v756&curator=lifeat6ix |  |
+| Downtown Toronto #7 | https://society6.com/product/downtown-toronto-7_poster?sku=s6-22684333p66a213v756&curator=lifeat6ix |  |
+| Downtown Toronto #6 | https://society6.com/product/downtown-toronto-6_poster?sku=s6-22684319p66a213v756&curator=lifeat6ix |  |
+| Downtown Toronto #5 | https://society6.com/product/downtown-toronto-5_poster?sku=s6-22684264p66a213v756&curator=lifeat6ix |  |
+| Downtown Toronto #4 | https://society6.com/product/downtown-toronto-4_poster?sku=s6-22684248p66a213v756&curator=lifeat6ix |  |
+| Downtown Toronto #3 | https://society6.com/product/downtown-toronto-3_poster?sku=s6-22684239p66a213v756&curator=lifeat6ix |  |
+| Downtown Toronto #2 | https://society6.com/product/downtown-toronto-2_poster?sku=s6-22684227p66a213v756&curator=lifeat6ix |  |
+| High-rise #2 | https://society6.com/product/high-rise-26357252_poster?sku=s6-22684200p66a213v756&curator=lifeat6ix |  |
+| Gooderham Building | https://society6.com/product/gooderham-building6357146_poster?sku=s6-22683920p66a213v756&curator=lifeat6ix |  |
+| Toronto Buses | https://society6.com/product/toronto-buses_poster?sku=s6-22683889p66a213v756&curator=lifeat6ix |  |
+| Toronto Office Building | https://society6.com/product/toronto-office-building_poster?sku=s6-22683800p66a213v756&curator=lifeat6ix |  |
+| Toronto Office Building B&W | https://society6.com/product/toronto-office-building-bw_poster?sku=s6-22683792p66a213v756&curator=lifeat6ix |  |
+| CN Tower | https://society6.com/product/cn-tower6357093_poster?sku=s6-22683785p66a213v756&curator=lifeat6ix |  |
+| CN Tower B&W | https://society6.com/product/cn-tower-bw_poster?sku=s6-22683780p66a213v756&curator=lifeat6ix |  |
+| High-rise | https://society6.com/product/highrise6357087_poster?sku=s6-22683772p66a213v756&curator=lifeat6ix |  |
+| Downtown Toronto at Night | https://society6.com/product/downtown-toronto-at-night_poster?sku=s6-22683757p66a213v756&curator=lifeat6ix |  |
+| Yonge-Dundas Square at Night | https://society6.com/product/yonge-dundas-square-at-night_poster?sku=s6-22680805p66a213v756&curator=lifeat6ix |  |
+| Scarborough Bluffs | https://society6.com/product/scarborough-bluffs5673005_poster?sku=s6-21350715p66a213v756&curator=lifeat6ix |  |
+| Montreal Botanical Garden 2 | https://society6.com/product/montreal-botanical-garden-2_poster?sku=s6-21350524p66a213v756&curator=lifeat6ix |  |
+| Lonely Tent on Madeira Beach | https://society6.com/product/lonely-tent-on-madeira-beach_poster?sku=s6-21349408p66a213v756&curator=lifeat6ix |  |
+| Times Square 3 | https://society6.com/product/times-square-35672331_poster?sku=s6-21349246p66a213v756&curator=lifeat6ix |  |
+| Springbank Park Thames River | https://society6.com/product/springbank-park-thames-river5656406_poster?sku=s6-21318893p66a213v756&curator=lifeat6ix |  |
+| Springbank Park Thames River | https://society6.com/product/springbank-park-thames-river_poster?sku=s6-21318862p66a213v756&curator=lifeat6ix |  |
+| Horseshoe Falls | https://society6.com/product/horseshoe-falls5427351_poster?sku=s6-20846209p66a213v756&curator=lifeat6ix |  |
+| American Falls and Bridal Veil Falls | https://society6.com/product/american-falls-and-bridal-veil-falls_poster?sku=s6-20846225p66a213v756&curator=lifeat6ix |  |
