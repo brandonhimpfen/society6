@@ -2,6 +2,33 @@
 
 | Artwork Name | Original URL | Short URL |
 |--------------|--------------|-----------|
+| Reflection of the CN Tower |  |  |
+| CN Tower |  |  |
+| Downtown Toronto #10 |  |  |
+| Downtown Toronto #9 |  |  |
+| Downtown Toronto #8 |  |  |
+| Downtown Toronto #7 |  |  |
+| Downtown Toronto #6 |  |  |
+| The Crystal |  |  |
+| Royal Ontario Museum |  |  |
+| Downtown Toronto #5 |  |  |
+| Downtown Toronto #4 |  |  |
+| Downtown Toronto #3 |  |  |
+| Downtown Toronto #2 |  |  |
+| High-rise #2 |  |  |
+| Airplane |  |  |
+| St. Lawrence Market #2 |  |  |
+| Downtown Toronto |  |  |
+| Distillery District Love Locks |  |  |
+| St. Lawrence Market |  |  |
+| Gooderham Building |  |  |
+| Toronto Buses |  |  |
+| Toronto Office Building |  |  |
+| Toronto Office Building B&W |  |  |
+| CN Tower |  |  |
+| CN Tower B&W |  |  |
+| High-rise |  |  |
+| Downtown Toronto at Night |  |  |
 | Toronto Sign at Night |  |  |
 | Yonge-Dundas Square at Night |  |  |
 | Scarborough Bluffs |  |  |
